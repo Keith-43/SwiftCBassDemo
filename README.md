@@ -5,9 +5,8 @@ This is a Swift Xcode project incorporating the BASS audio library.  It is multi
 
 The CBass package is free and open-sourced on GitHub.  The BASS audio library itself is free for non-commercial usage.  For commercial usage, see https://www.un4seen.com for licensing information.
 
-The Apple Xcode documentation (here)[https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app#] provides guidance on how to import a Swift package into your app.  The repostory URL you will need is:
-
-https://github.com/Treata11/CBass .
+To import a package into your app using Xcode, see the guidance provided by Apple at https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app .
+The repostory URL you will need is:  https://github.com/Treata11/CBass .
 
 Then, remember to add "import Bass" to the top of any Swift file using any BASS commands.
 
